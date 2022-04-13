@@ -32,7 +32,7 @@ var colorFinal = document.getElementById("color-final");
 var nameFinal = document.querySelectorAll(".name-pro");
 
 // colors.forEach((color) => {
-//   selectedColor.addEventListener("cliclk", (event) => {
+//   selectedColor.addEventListener("click", (event) => {
 //     selectedColor = color.id;
 //     e.style.setProperty("opacity", "1", "important");
 //   });
